@@ -1,0 +1,300 @@
+Name,Stars,Forks,Language,Description,URL,Domain,Growth Pattern
+freeCodeCamp/freeCodeCamp,224136,8997,JavaScript,The https://freeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.,https://github.com/freeCodeCamp/freeCodeCamp,Documentation,
+twbs/bootstrap,105991,48185,JavaScript,"The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",https://github.com/twbs/bootstrap,Web libraries and frameworks,
+d3/d3,59462,15847,JavaScript,"Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",https://github.com/d3/d3,Web libraries and frameworks,
+facebook/react,58176,10559,JavaScript,"A declarative, efficient, and flexible JavaScript library for building user interfaces.",https://github.com/facebook/react,Web libraries and frameworks,
+angular/angular.js,54439,27059,JavaScript,HTML enhanced for web apps,https://github.com/angular/angular.js,Web libraries and frameworks,
+getify/You-Dont-Know-JS,49828,7657,JavaScript,A book series on JavaScript. @YDKJS on twitter.,https://github.com/getify/You-Dont-Know-JS,Documentation,
+robbyrussell/oh-my-zsh,48136,11625,Shell,"A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",https://github.com/robbyrussell/oh-my-zsh,Software tools,
+FortAwesome/Font-Awesome,47865,8291,HTML,The iconic font and CSS toolkit,https://github.com/FortAwesome/Font-Awesome,Web libraries and frameworks,
+airbnb/javascript,46155,8853,JavaScript,JavaScript Style Guide,https://github.com/airbnb/javascript,Documentation,
+tensorflow/tensorflow,43721,20354,C++,Computation using data flow graphs for scalable machine learning,https://github.com/tensorflow/tensorflow,Software tools,
+facebook/react-native,43151,9887,JavaScript,A framework for building native apps with React.,https://github.com/facebook/react-native,Web libraries and frameworks,Fast
+jquery/jquery,43098,11969,JavaScript,jQuery JavaScript Library,https://github.com/jquery/jquery,Web libraries and frameworks,
+torvalds/linux,41150,15715,C,Linux kernel source tree,https://github.com/torvalds/linux,System software,Moderate
+electron/electron,40755,4830,C++,"Build cross platform desktop apps with JavaScript, HTML, and CSS",https://github.com/electron/electron,Non-web libraries and frameworks,Fast
+vuejs/vue,40605,5012,JavaScript,"A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",https://github.com/vuejs/vue,Web libraries and frameworks,Fast
+docker/docker,39002,11629,Go,Docker - the open-source application container engine,https://github.com/docker/docker,System software,Moderate
+daneden/animate.css,38523,8662,CSS,A cross-browser library of CSS animations. As easy to use as an easy thing.,https://github.com/daneden/animate.css,Web libraries and frameworks,Moderate
+meteor/meteor,36523,4552,JavaScript,"Meteor, the JavaScript App Platform",https://github.com/meteor/meteor,Web libraries and frameworks,Moderate
+h5bp/html5-boilerplate,36344,9006,JavaScript,"A professional front-end template for building fast, robust, and adaptable web apps or sites.",https://github.com/h5bp/html5-boilerplate,Web libraries and frameworks,Slow
+apple/swift,36288,5290,C++,The Swift Programming Language,https://github.com/apple/swift,System software,
+rails/rails,34188,13896,Ruby,Ruby on Rails,https://github.com/rails/rails,Web libraries and frameworks,Slow
+atom/atom,34143,5908,CoffeeScript,The hackable text editor,https://github.com/atom/atom,Application software,Moderate
+hakimel/reveal.js,32456,9792,JavaScript,The HTML Presentation Framework,https://github.com/hakimel/reveal.js,Web libraries and frameworks,Moderate
+Semantic-Org/Semantic-UI,30891,3517,JavaScript,Semantic is a UI component framework based around useful principles from natural language.,https://github.com/Semantic-Org/Semantic-UI,Web libraries and frameworks,Moderate
+nodejs/node,30884,5676,JavaScript,Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:,https://github.com/nodejs/node,System software,Moderate
+impress/impress.js,30730,6479,JavaScript,It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.,https://github.com/impress/impress.js,Web libraries and frameworks,Slow
+nwjs/nw.js,30514,3446,C++,Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies.,https://github.com/nwjs/nw.js,System software,Slow
+mrdoob/three.js,30269,10538,JavaScript,JavaScript 3D library.,https://github.com/mrdoob/three.js,Web libraries and frameworks,Moderate
+socketio/socket.io,30067,5765,JavaScript,Realtime application framework (Node.JS server),https://github.com/socketio/socket.io,Non-web libraries and frameworks,Moderate
+moment/moment,29595,4248,JavaScript,"Parse, validate, manipulate, and display dates in javascript.",https://github.com/moment/moment,Non-web libraries and frameworks,Slow
+expressjs/express,29588,5415,JavaScript,"Fast, unopinionated, minimalist web framework for node.",https://github.com/expressjs/express,Web libraries and frameworks,Moderate
+Homebrew/legacy-homebrew,29324,13823,Ruby,:skull: The former home of Homebrew,https://github.com/Homebrew/legacy-homebrew,Software tools,Slow
+laravel/laravel,28856,9543,PHP,A PHP Framework For Web Artisans,https://github.com/laravel/laravel,Web libraries and frameworks,Moderate
+vinta/awesome-python,28649,5442,Python,"A curated list of awesome Python frameworks, libraries, software and resources",https://github.com/vinta/awesome-python,Documentation,Moderate
+jekyll/jekyll,28327,6280,Ruby,":globe_with_meridians: Jekyll is a blog-aware, static site generator in Ruby",https://github.com/jekyll/jekyll,Application software,Moderate
+AFNetworking/AFNetworking,28207,8950,Objective-C,"A delightful networking framework for iOS, OS X, watchOS, and tvOS.",https://github.com/AFNetworking/AFNetworking,Software tools,Moderate
+jkbrzt/httpie,27831,1800,Python,"Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/clihttp for tips and updates.",https://github.com/jkbrzt/httpie,Software tools,Moderate
+google/material-design-icons,27681,5286,CSS,Material Design icons by Google,https://github.com/google/material-design-icons,Web libraries and frameworks,Moderate
+driftyco/ionic,27631,6566,TypeScript,Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything ?,https://github.com/driftyco/ionic,Web libraries and frameworks,Moderate
+chartjs/Chart.js,27551,7361,JavaScript,Simple HTML5 Charts using the <canvas> tag,https://github.com/chartjs/Chart.js,Web libraries and frameworks,Moderate
+reactjs/redux,27484,4967,JavaScript,Predictable state container for JavaScript apps,https://github.com/reactjs/redux,Web libraries and frameworks,Fast
+adobe/brackets,26769,5656,JavaScript,"An open source code editor for the web, written in JavaScript, HTML and CSS.",https://github.com/adobe/brackets,Application software,Slow
+resume/resume.github.com,26228,695,JavaScript,Resumes generated using the GitHub informations,https://github.com/resume/resume.github.com,Application software,Moderate
+NARKOZ/hacker-scripts,26112,4801,JavaScript,Based on a true story,https://github.com/NARKOZ/hacker-scripts,Application software,
+jashkenas/backbone,25973,5641,JavaScript,"Give your JS App some Backbone with Models, Views, Collections, and Events",https://github.com/jashkenas/backbone,Web libraries and frameworks,Slow
+blueimp/jQuery-File-Upload,25803,6943,JavaScript,"File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.",https://github.com/blueimp/jQuery-File-Upload,Web libraries and frameworks,Slow
+google/material-design-lite,25644,4336,HTML,Material Design Components in HTML/CSS/JS,https://github.com/google/material-design-lite,Web libraries and frameworks,Moderate
+gulpjs/gulp,24947,3504,JavaScript,The streaming build system,https://github.com/gulpjs/gulp,Software tools,Moderate
+zurb/foundation-sites,24803,5420,JavaScript,The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.,https://github.com/zurb/foundation-sites,Web libraries and frameworks,Slow
+pallets/flask,24778,7879,Python,"A microframework based on Werkzeug, Jinja2 and good intentions",https://github.com/pallets/flask,Web libraries and frameworks,Moderate
+necolas/normalize.css,24500,4997,HTML,A collection of HTML element and attribute style-normalizations,https://github.com/necolas/normalize.css,Web libraries and frameworks,Moderate
+Dogfalo/materialize,24120,3500,JavaScript,"Materialize, a CSS Framework based on Material Design",https://github.com/Dogfalo/materialize,Web libraries and frameworks,Moderate
+golang/go,24001,3208,Go,The Go programming language,https://github.com/golang/go,System software,Moderate
+nvbn/thefuck,23688,1146,Python,Magnificent app which corrects your previous console command.,https://github.com/nvbn/thefuck,Software tools,Moderate
+webpack/webpack,23385,2677,JavaScript,"A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through ""loaders,"" modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",https://github.com/webpack/webpack,Web libraries and frameworks,Fast
+django/django,23372,9432,Python,The Web framework for perfectionists with deadlines.,https://github.com/django/django,Web libraries and frameworks,Moderate
+rg3/youtube-dl,23124,4428,Python,Command-line program to download videos from YouTube.com and other video sites,https://github.com/rg3/youtube-dl,Application software,Moderate
+chrislgarry/Apollo-11,22985,3251,Assembly,Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.,https://github.com/chrislgarry/Apollo-11,Documentation,Viral
+kennethreitz/requests,22978,4141,Python,Python HTTP Requests for Humans™,https://github.com/kennethreitz/requests,Software tools,Moderate
+callemall/material-ui,22603,4027,JavaScript,React Components that Implement Google's Material Design.,https://github.com/callemall/material-ui,Web libraries and frameworks,Moderate
+getlantern/lantern,21876,5653,Go,":izakaya_lantern: Open Internet for everyone. Lantern is a free application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including domain fronting, p2p, and pluggable transports.",https://github.com/getlantern/lantern,Application software,Fast
+yarnpkg/yarn,21809,835,JavaScript,"?? Fast, reliable, and secure dependency management.",https://github.com/yarnpkg/yarn,Software tools,
+Microsoft/vscode,21775,3070,TypeScript,Visual Studio Code,https://github.com/Microsoft/vscode,Software tools,Viral
+TryGhost/Ghost,21713,5161,JavaScript,"A simple, powerful publishing platform",https://github.com/TryGhost/Ghost,Application software,Slow
+nylas/N1,21693,1019,JavaScript,:love_letter: An extensible desktop mail app built on the modern web.,https://github.com/nylas/N1,Application software,Fast
+Alamofire/Alamofire,21612,3724,Swift,Elegant HTTP Networking in Swift,https://github.com/Alamofire/Alamofire,Non-web libraries and frameworks,Moderate
+antirez/redis,21486,8067,C,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",https://github.com/antirez/redis,System software,Moderate
+neovim/neovim,21332,1518,VimL,Vim-fork focused on extensibility and agility.,https://github.com/neovim/neovim,Application software,Moderate
+lodash/lodash,21129,2097,JavaScript,"A modern JavaScript utility library delivering modularity, performance, & extras.",https://github.com/lodash/lodash,Non-web libraries and frameworks,Moderate
+ansible/ansible,20967,6620,Python,"Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.",https://github.com/ansible/ansible,Software tools,Moderate
+ariya/phantomjs,20781,4400,HTML,Scriptable Headless WebKit,https://github.com/ariya/phantomjs,Software tools,Moderate
+ReactiveX/RxJava,20734,3661,Java,RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.,https://github.com/ReactiveX/RxJava,System software,Fast
+elastic/elasticsearch,20441,7055,Java,"Open Source, Distributed, RESTful Search Engine",https://github.com/elastic/elasticsearch,Software tools,Moderate
+discourse/discourse,20404,5367,Ruby,"A platform for community discussion. Free, open, simple.",https://github.com/discourse/discourse,Application software,Slow
+harvesthq/chosen,20353,3944,HTML,"Chosen is a library for making long, unwieldy select boxes more friendly.",https://github.com/harvesthq/chosen,Web libraries and frameworks,Slow
+caolan/async,20255,1960,JavaScript,Async utilities for node and the browser,https://github.com/caolan/async,Non-web libraries and frameworks,Moderate
+rust-lang/rust,20090,3808,Rust,"A safe, concurrent, practical language.",https://github.com/rust-lang/rust,System software,Moderate
+kubernetes/kubernetes,20069,6799,Go,Production-Grade Container Scheduling and Management,https://github.com/kubernetes/kubernetes,Software tools,Moderate
+jashkenas/underscore,19996,4561,JavaScript,JavaScript's utility _ belt,https://github.com/jashkenas/underscore,Non-web libraries and frameworks,Slow
+angular/angular,19961,5175,TypeScript,,https://github.com/angular/angular,Web libraries and frameworks,Fast
+tastejs/todomvc,19871,11253,JavaScript,"Helping you select an MV* framework - Todo apps for Backbone.js, Ember.js, AngularJS, and many more",https://github.com/tastejs/todomvc,Documentation,Moderate
+Modernizr/Modernizr,19587,2684,JavaScript,Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.,https://github.com/Modernizr/Modernizr,Web libraries and frameworks,Slow
+babel/babel,19549,1590,JavaScript,:tropical_fish: Babel is a compiler for writing next generation JavaScript.,https://github.com/babel/babel,Software tools,Moderate
+josephmisiti/awesome-machine-learning,19488,4717,Python,"A curated list of awesome Machine Learning frameworks, libraries and software.",https://github.com/josephmisiti/awesome-machine-learning,Documentation,Fast
+select2/select2,19287,4216,JavaScript,"Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.",https://github.com/select2/select2,Web libraries and frameworks,Slow
+facebookincubator/create-react-app,19083,2072,JavaScript,Create React apps with no build configuration.,https://github.com/facebookincubator/create-react-app,Web libraries and frameworks,
+minimaxir/big-list-of-naughty-strings,19083,735,Python,The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.,https://github.com/minimaxir/big-list-of-naughty-strings,Documentation,Moderate
+ReactTraining/react-router,18979,4550,JavaScript,Declarative routing for React,https://github.com/ReactTraining/react-router,Web libraries and frameworks,Fast
+gitlabhq/gitlabhq,18939,5148,Ruby,GitLab CE | Please open new issues in our issue tracker on GitLab.com,https://github.com/gitlabhq/gitlabhq,Software tools,Slow
+typicode/json-server,18650,1319,JavaScript,Get a full fake REST API with zero coding in less than 30 seconds (seriously),https://github.com/typicode/json-server,System software,Moderate
+sahat/hackathon-starter,18563,3092,CSS,A boilerplate for Node.js web applications,https://github.com/sahat/hackathon-starter,Web libraries and frameworks,Moderate
+Microsoft/TypeScript,18436,2594,TypeScript,TypeScript is a superset of JavaScript that compiles to clean JavaScript output.,https://github.com/Microsoft/TypeScript,Software tools,Fast
+square/retrofit,18399,3823,Java,"Type-safe HTTP client for Android and Java by Square, Inc.",https://github.com/square/retrofit,Non-web libraries and frameworks,Fast
+scrapy/scrapy,17978,4937,Python,"Scrapy, a fast high-level web crawling & scraping framework for Python.",https://github.com/scrapy/scrapy,Non-web libraries and frameworks,Moderate
+bayandin/awesome-awesomeness,17977,2270,Ruby,A curated list of awesome awesomeness,https://github.com/bayandin/awesome-awesomeness,Documentation,Slow
+firehol/netdata,17915,1374,C,Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/,https://github.com/firehol/netdata,Software tools,Viral
+avelino/awesome-go,17738,2235,Go,"A curated list of awesome Go frameworks, libraries and software",https://github.com/avelino/awesome-go,Documentation,Moderate
+prakhar1989/awesome-courses,17735,3142,HTML,:books: List of awesome university courses for learning Computer Science!,https://github.com/prakhar1989/awesome-courses,Documentation,Slow
+vsouza/awesome-ios,17513,3032,Swift,"A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects ",https://github.com/vsouza/awesome-ios,Documentation,Fast
+emberjs/ember.js,17436,3646,JavaScript,Ember.js - A JavaScript framework for creating ambitious web applications,https://github.com/emberjs/ember.js,Web libraries and frameworks,Slow
+alvarotrigo/fullPage.js,17431,4616,JavaScript,fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple,https://github.com/alvarotrigo/fullPage.js,Web libraries and frameworks,Moderate
+FezVrasta/bootstrap-material-design,17427,3016,CSS,Material design theme for Bootstrap 3 and 4,https://github.com/FezVrasta/bootstrap-material-design,Web libraries and frameworks,Moderate
+certbot/certbot,17421,1505,Python,"Certbot, previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.",https://github.com/certbot/certbot,Software tools,Fast
+gogits/gogs,17408,1945,Go,Gogs (Go Git Service) is a painless self-hosted Git service.,https://github.com/gogits/gogs,Software tools,Moderate
+rethinkdb/rethinkdb,17394,1468,C++,The open-source database for the realtime web.,https://github.com/rethinkdb/rethinkdb,System software,Moderate
+Leaflet/Leaflet,17371,2933,JavaScript,:leaves: JavaScript library for mobile-friendly interactive maps,https://github.com/Leaflet/Leaflet,Web libraries and frameworks,Moderate
+facebook/pop,17078,2724,Objective-C++,"An extensible iOS and OS X animation library, useful for physics-based interactions.",https://github.com/facebook/pop,Non-web libraries and frameworks,Moderate
+kenwheeler/slick,17069,2720,JavaScript,the last carousel you'll ever need,https://github.com/kenwheeler/slick,Web libraries and frameworks,Moderate
+square/okhttp,17037,4367,Java,An HTTP+HTTP/2 client for Android and Java applications.,https://github.com/square/okhttp,Web libraries and frameworks,Fast
+creationix/nvm,17031,1644,Shell,Node Version Manager - Simple bash script to manage multiple active node.js versions,https://github.com/creationix/nvm,Software tools,Moderate
+adam-p/markdown-here,17013,2792,JavaScript,"Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.",https://github.com/adam-p/markdown-here,Software tools,Moderate
+Polymer/polymer,16812,1680,HTML,Build modern apps using web components,https://github.com/Polymer/polymer,Web libraries and frameworks,Moderate
+Unitech/pm2,16802,1300,JavaScript,Production process manager for Node.js apps with a built-in load balancer,https://github.com/Unitech/pm2,Software tools,Moderate
+facebook/immutable-js,16801,883,JavaScript,Immutable persistent data collections for Javascript which increase efficiency and simplicity.,https://github.com/facebook/immutable-js,Non-web libraries and frameworks,Moderate
+mozilla/pdf.js,16758,4011,JavaScript,PDF Reader in JavaScript,https://github.com/mozilla/pdf.js,Web libraries and frameworks,Slow
+rs/SDWebImage,16708,4613,Objective-C,Asynchronous image downloader with cache support as a UIImageView category,https://github.com/rs/SDWebImage,Web libraries and frameworks,Moderate
+Prinzhorn/skrollr,16645,3347,HTML,Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).,https://github.com/Prinzhorn/skrollr,Web libraries and frameworks,Slow
+plataformatec/devise,16478,3760,Ruby,Flexible authentication solution for Rails with Warden.,https://github.com/plataformatec/devise,Non-web libraries and frameworks,Slow
+iluwatar/java-design-patterns,16472,5538,Java,Design patterns implemented in Java,https://github.com/iluwatar/java-design-patterns,Documentation,Moderate
+ReactiveCocoa/ReactiveCocoa,16425,3103,Swift,Streams of values over time,https://github.com/ReactiveCocoa/ReactiveCocoa,Non-web libraries and frameworks,Moderate
+balderdashy/sails,16341,1669,JavaScript,Realtime MVC Framework for Node.js,https://github.com/balderdashy/sails,Web libraries and frameworks,Moderate
+nvie/gitflow,16339,1806,Shell,Git extensions to provide high-level repository operations for Vincent Driessen's branching model.,https://github.com/nvie/gitflow,Software tools,Slow
+numbbbbb/the-swift-programming-language-in-chinese,16338,4515,CSS,中文版 Apple 官方 Swift 教程《The Swift Programming Language》,https://github.com/numbbbbb/the-swift-programming-language-in-chinese,Documentation,Moderate
+justjavac/free-programming-books-zh_CN,16140,6648,JavaScript,:books: 免费的计算机编程类中文书籍，欢迎投稿,https://github.com/justjavac/free-programming-books-zh_CN,Documentation,Moderate
+shadowsocks/shadowsocks,16017,9980,Python,,https://github.com/shadowsocks/shadowsocks,Software tools,Moderate
+git/git,15988,9024,C,Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.,https://github.com/git/git,Software tools,Moderate
+scikit-learn/scikit-learn,15960,8917,Python,scikit-learn: machine learning in Python,https://github.com/scikit-learn/scikit-learn,Non-web libraries and frameworks,Moderate
+mathiasbynens/dotfiles,15819,5877,Shell,":wrench: .files, including ~/.macos — sensible hacker defaults for macOS",https://github.com/mathiasbynens/dotfiles,Software tools,Slow
+yahoo/pure,15801,1851,HTML,"A set of small, responsive CSS modules that you can use in every web project.",https://github.com/yahoo/pure,Web libraries and frameworks,Slow
+zenorocha/clipboard.js,15750,1152,JavaScript,:scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:,https://github.com/zenorocha/clipboard.js,Web libraries and frameworks,
+ecomfe/echarts,15740,5404,JavaScript,"A powerful, interactive charting and visualization library for browser",https://github.com/ecomfe/echarts,Web libraries and frameworks,Moderate
+open-guides/og-aws,15722,989,Shell,? Amazon Web Services — a practical guide,https://github.com/open-guides/og-aws,Documentation,
+IanLunn/Hover,15616,3326,CSS,"A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.",https://github.com/IanLunn/Hover,Web libraries and frameworks,Moderate
+google/web-starter-kit,15519,2653,HTML,Web Starter Kit - a workflow for multi-device websites,https://github.com/google/web-starter-kit,Web libraries and frameworks,Moderate
+BVLC/caffe,15498,9584,C++,Caffe: a fast open framework for deep learning.,https://github.com/BVLC/caffe,Non-web libraries and frameworks,Fast
+cantino/huginn,15498,1689,Ruby,Create agents that monitor and act on your behalf.  Your agents are standing by!,https://github.com/cantino/huginn,Software tools,Moderate
+hammerjs/hammer.js,15435,2230,JavaScript,A javascript library for multi-touch gestures :// You can touch this,https://github.com/hammerjs/hammer.js,Web libraries and frameworks,Slow
+bevacqua/dragula,15188,991,JavaScript,:ok_hand: Drag and drop so simple it hurts,https://github.com/bevacqua/dragula,Web libraries and frameworks,Moderate
+angular/material,15078,3220,JavaScript,Material design for Angular,https://github.com/angular/material,Web libraries and frameworks,Moderate
+t4t5/sweetalert,15023,2001,JavaScript,"A beautiful replacement for JavaScript's ""alert""",https://github.com/t4t5/sweetalert,Web libraries and frameworks,Slow
+videojs/video.js,14950,4313,JavaScript,Video.js - open source HTML5 & Flash video player,https://github.com/videojs/video.js,Web libraries and frameworks,Moderate
+bower/bower,14913,1952,JavaScript,A package manager for the web,https://github.com/bower/bower,Software tools,Slow
+BradLarson/GPUImage,14789,3694,Objective-C,An open source iOS framework for GPU-based image and video processing,https://github.com/BradLarson/GPUImage,Non-web libraries and frameworks,Moderate
+syncthing/syncthing,14770,1152,Go,Open Source Continuous File Synchronization,https://github.com/syncthing/syncthing,Software tools,Moderate
+usablica/intro.js,14748,1863,HTML,A better way for new feature introduction and step-by-step users guide for your website and project.,https://github.com/usablica/intro.js,Web libraries and frameworks,Moderate
+nostra13/Android-Universal-Image-Loader,14746,6350,Java,"Powerful and flexible library for loading, caching and displaying images on Android.",https://github.com/nostra13/Android-Universal-Image-Loader,Non-web libraries and frameworks,Moderate
+defunkt/jquery-pjax,14585,1831,JavaScript,pushState + ajax = pjax,https://github.com/defunkt/jquery-pjax,Web libraries and frameworks,Slow
+google/protobuf,14547,4403,C++,Protocol Buffers - Google's data interchange format,https://github.com/google/protobuf,Non-web libraries and frameworks,Fast
+spf13/hugo,14466,2159,Go,A Fast and Flexible Static Site Generator built with love in GoLang,https://github.com/spf13/hugo,Application software,Fast
+less/less.js,14386,3342,JavaScript,Leaner CSS,https://github.com/less/less.js,Web libraries and frameworks,Slow
+almasaeed2010/AdminLTE,14382,5091,HTML,AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x,https://github.com/almasaeed2010/AdminLTE,Web libraries and frameworks,Fast
+vshatskyi/black-screen,14348,399,TypeScript,A terminal emulator for the 21st century.,https://github.com/vshatskyi/black-screen,Software tools,Fast
+zeit/hyper,14275,970,JavaScript,A terminal built on web technologies,https://github.com/zeit/hyper,Application software,
+hexojs/hexo,14253,2204,JavaScript,"A fast, simple & powerful blog framework, powered by Node.js.",https://github.com/hexojs/hexo,Application software,Moderate
+facebook/hhvm,14224,2597,C++,A virtual machine designed for executing programs written in Hack and PHP.,https://github.com/facebook/hhvm,System software,Slow
+Reactive-Extensions/RxJS,14193,1585,JavaScript,The Reactive Extensions for JavaScript,https://github.com/Reactive-Extensions/RxJS,Web libraries and frameworks,Fast
+photonstorm/phaser,14181,4721,HTML,"Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",https://github.com/photonstorm/phaser,Web libraries and frameworks,Moderate
+ajaxorg/ace,14179,3358,JavaScript,Ace (Ajax.org Cloud9 Editor),https://github.com/ajaxorg/ace,Application software,Slow
+SamyPesse/How-to-Make-a-Computer-Operating-System,14126,2468,C,How to Make a Computer Operating System in C++,https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System,Documentation,Moderate
+SnapKit/Masonry,14105,2755,Objective-C,"Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout",https://github.com/SnapKit/Masonry,Non-web libraries and frameworks,Moderate
+google/guava,14097,3379,Java,Google Core Libraries for Java 6+,https://github.com/google/guava,Non-web libraries and frameworks,Fast
+GitbookIO/gitbook,14095,1741,JavaScript,? Modern documentation format and toolchain using Git and Markdown,https://github.com/GitbookIO/gitbook,Application software,Moderate
+grafana/grafana,14080,2215,Go,"Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & Prometheus",https://github.com/grafana/grafana,Web libraries and frameworks,Moderate
+JakeWharton/butterknife,14034,3027,Java,Bind Android views and callbacks to fields and methods.,https://github.com/JakeWharton/butterknife,Non-web libraries and frameworks,Fast
+serverless/serverless,14027,1198,JavaScript,"Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – ",https://github.com/serverless/serverless,Web libraries and frameworks,Fast
+request/request,14006,1728,JavaScript,?? Simplified HTTP request client.,https://github.com/request/request,Non-web libraries and frameworks,Moderate
+ftlabs/fastclick,13981,2255,HTML,Polyfill to remove click delays on browsers with touch UIs,https://github.com/ftlabs/fastclick,Web libraries and frameworks,Slow
+mitchellh/vagrant,13914,2956,Ruby,Vagrant is a tool for building and distributing development environments.,https://github.com/mitchellh/vagrant,Software tools,Moderate
+VundleVim/Vundle.vim,13845,1695,VimL,"Vundle, the plug-in manager for Vim",https://github.com/VundleVim/Vundle.vim,Software tools,Moderate
+astaxie/build-web-application-with-golang,13739,4449,Go,A golang ebook intro how to build a web with golang,https://github.com/astaxie/build-web-application-with-golang,Documentation,Moderate
+angular-ui/bootstrap,13734,6992,JavaScript,"Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. Please read the README.md file before submitting an issue!",https://github.com/angular-ui/bootstrap,Web libraries and frameworks,Moderate
+Kickball/awesome-selfhosted,13729,1026,JavaScript,This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.,https://github.com/Kickball/awesome-selfhosted,Documentation,Fast
+twitter/typeahead.js,13723,2779,JavaScript,typeahead.js is a fast and fully-featured autocomplete library,https://github.com/twitter/typeahead.js,Web libraries and frameworks,Slow
+symfony/symfony,13693,5304,PHP,The Symfony PHP framework,https://github.com/symfony/symfony,Web libraries and frameworks,Slow
+bcit-ci/CodeIgniter,13671,6667,PHP,Open Source PHP Framework (originally from EllisLab),https://github.com/bcit-ci/CodeIgniter,Web libraries and frameworks,Slow
+jashkenas/coffeescript,13660,1869,CoffeeScript,Unfancy JavaScript,https://github.com/jashkenas/coffeescript,System software,Slow
+twbs/ratchet,13636,1449,CSS,"Build mobile apps with simple HTML, CSS, and JavaScript components. ",https://github.com/twbs/ratchet,Web libraries and frameworks,Slow
+petkaantonov/bluebird,13603,1666,JavaScript,:bird: :zap: Bluebird is a full featured promise library with unmatched performance.,https://github.com/petkaantonov/bluebird,Non-web libraries and frameworks,Moderate
+PhilJay/MPAndroidChart,13583,4192,Java,"A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.",https://github.com/PhilJay/MPAndroidChart,Non-web libraries and frameworks,Fast
+fastlane/fastlane,13583,2069,Ruby,? The easiest way to automate building and releasing your iOS and Android apps,https://github.com/fastlane/fastlane,Software tools,Fast
+koajs/koa,13518,1174,JavaScript,Expressive middleware for node.js using generators,https://github.com/koajs/koa,Web libraries and frameworks,Moderate
+dhg/Skeleton,13379,2384,CSS,"Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development",https://github.com/dhg/Skeleton,Web libraries and frameworks,Moderate
+pugjs/pug,13361,1684,JavaScript,"Pug – robust, elegant, feature rich template engine for Node.js",https://github.com/pugjs/pug,Web libraries and frameworks,Moderate
+aosabook/500lines,13361,2770,JavaScript,500 Lines or Less,https://github.com/aosabook/500lines,Documentation,Fast
+postcss/postcss,13302,721,JavaScript,Transforming styles with JS plugins,https://github.com/postcss/postcss,Web libraries and frameworks,Moderate
+square/leakcanary,13256,2311,Java,A memory leak detection library for Android and Java.,https://github.com/square/leakcanary,Software tools,Fast
+opencv/opencv,13192,10531,C++,Open Source Computer Vision Library,https://github.com/opencv/opencv,Non-web libraries and frameworks,Moderate
+weui/weui,13192,3691,HTML,"A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.",https://github.com/weui/weui,Web libraries and frameworks,Fast
+SwiftyJSON/SwiftyJSON,13160,2439,Swift,The better way to deal with JSON data in Swift,https://github.com/SwiftyJSON/SwiftyJSON,Non-web libraries and frameworks,Moderate
+facebook/flux,13124,3541,JavaScript,Application Architecture for Building User Interfaces,https://github.com/facebook/flux,Web libraries and frameworks,Moderate
+greenrobot/EventBus,13029,3384,Java,"Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.",https://github.com/greenrobot/EventBus,Non-web libraries and frameworks,Moderate
+dokku/dokku,13002,1152,Shell,A docker-powered PaaS that helps you build and manage the lifecycle of applications,https://github.com/dokku/dokku,Software tools,Slow
+bumptech/glide,12974,2744,Java,An image loading and caching library for Android focused on smooth scrolling,https://github.com/bumptech/glide,Web libraries and frameworks,Fast
+dimsemenov/PhotoSwipe,12965,1865,JavaScript,"JavaScript image gallery for mobile and desktop, modular, framework independent",https://github.com/dimsemenov/PhotoSwipe,Web libraries and frameworks,Moderate
+pixijs/pixi.js,12916,2356,JavaScript,Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback,https://github.com/pixijs/pixi.js,Web libraries and frameworks,Moderate
+kriskowal/q,12828,1085,JavaScript,A promise library for JavaScript,https://github.com/kriskowal/q,Non-web libraries and frameworks,Moderate
+Valloric/YouCompleteMe,12824,1510,Python,A code-completion engine for Vim,https://github.com/Valloric/YouCompleteMe,Software tools,Moderate
+tornadoweb/tornado,12818,3880,Python,"Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.",https://github.com/tornadoweb/tornado,Non-web libraries and frameworks,Slow
+isocpp/CppCoreGuidelines,12789,1494,Python,"The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",https://github.com/isocpp/CppCoreGuidelines,Documentation,Fast
+jdg/MBProgressHUD,12745,3232,Objective-C,MBProgressHUD + Customizations,https://github.com/jdg/MBProgressHUD,Non-web libraries and frameworks,Moderate
+angular-ui/ui-router,12713,3076,TypeScript,The de-facto solution to flexible routing with nested views in AngularJS,https://github.com/angular-ui/ui-router,Web libraries and frameworks,Moderate
+danielgindi/Charts,12670,2281,Swift,Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.,https://github.com/danielgindi/Charts,Non-web libraries and frameworks,Fast
+google/iosched,12650,4823,Java,The Google I/O 2016 Android App,https://github.com/google/iosched,Application software,Moderate
+rstacruz/nprogress,12630,1154,JavaScript,"For slim progress bars like on YouTube, Medium, etc",https://github.com/rstacruz/nprogress,Web libraries and frameworks,Slow
+tobiasahlin/SpinKit,12592,1182,CSS,A collection of loading indicators animated with CSS,https://github.com/tobiasahlin/SpinKit,Web libraries and frameworks,Slow
+designmodo/Flat-UI,12561,2352,JavaScript,"Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.",https://github.com/designmodo/Flat-UI,Web libraries and frameworks,Slow
+lord/slate,12522,7061,JavaScript,Beautiful static documentation for your API,https://github.com/lord/slate,Web libraries and frameworks,Fast
+square/picasso,12493,3389,Java,A powerful image downloading and caching library for Android,https://github.com/square/picasso,Non-web libraries and frameworks,Moderate
+angular/angular-seed,12493,7162,JavaScript,Seed project for angular apps.,https://github.com/angular/angular-seed,Web libraries and frameworks,Moderate
+kriasoft/react-starter-kit,12447,2507,JavaScript,"React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync)",https://github.com/kriasoft/react-starter-kit,Web libraries and frameworks,Fast
+feross/webtorrent,12440,1037,JavaScript,:zap: Streaming torrent client for the web,https://github.com/feross/webtorrent,Non-web libraries and frameworks,Fast
+ParsePlatform/parse-server,12426,3386,JavaScript,Parse-compatible API server module for Node/Express,https://github.com/ParsePlatform/parse-server,Software tools,
+github/fetch,12311,819,JavaScript,A window.fetch JavaScript polyfill.,https://github.com/github/fetch,Web libraries and frameworks,Fast
+mzabriskie/axios,12309,641,JavaScript,Promise based HTTP client for the browser and node.js,https://github.com/mzabriskie/axios,Web libraries and frameworks,Viral
+jcjohnson/neural-style,12243,1817,Lua,Torch implementation of neural style algorithm,https://github.com/jcjohnson/neural-style,Non-web libraries and frameworks,Viral
+reddit/reddit,12223,2298,Python,the code that powers reddit.com,https://github.com/reddit/reddit,Application software,Slow
+XX-net/XX-Net,12182,4233,Python,a web proxy tool,https://github.com/XX-net/XX-Net,Non-web libraries and frameworks,Fast
+julianshapiro/velocity,12101,1194,JavaScript,Accelerated JavaScript animation.,https://github.com/julianshapiro/velocity,Web libraries and frameworks,Moderate
+coreos/etcd,12101,2209,Go,Distributed reliable key-value store for the most critical data of a distributed system,https://github.com/coreos/etcd,System software,Moderate
+quilljs/quill,12051,720,JavaScript,"Your powerful, rich text editor",https://github.com/quilljs/quill,Web libraries and frameworks,Moderate
+github/hubot,12048,2804,CoffeeScript,A customizable life embetterment robot.,https://github.com/github/hubot,Software tools,Moderate
+jasmine/jasmine,12044,1839,JavaScript,DOM-less simple JavaScript testing framework,https://github.com/jasmine/jasmine,Web libraries and frameworks,Slow
+spring-projects/spring-framework,12009,9350,Java,The Spring Framework,https://github.com/spring-projects/spring-framework,Web libraries and frameworks,Moderate
+madrobby/zepto,11956,3245,HTML,"Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API",https://github.com/madrobby/zepto,Web libraries and frameworks,Slow
+dkhamsing/open-source-ios-apps,11933,2142,Swift,:iphone: Collaborative List of Open-Source iOS Apps,https://github.com/dkhamsing/open-source-ios-apps,Documentation,Viral
+alibaba/weex,11932,1665,JavaScript,A framework for building Mobile cross-platform UI,https://github.com/alibaba/weex,Non-web libraries and frameworks,
+zxing/zxing,11884,5977,Java,"Official ZXing (""Zebra Crossing"") project home",https://github.com/zxing/zxing,Non-web libraries and frameworks,Moderate
+jgthms/bulma,11855,678,CSS,Modern CSS framework based on Flexbox,https://github.com/jgthms/bulma,Web libraries and frameworks,
+knsv/mermaid,11838,591,JavaScript,Generation of diagram and flowchart from text in a similar manner as markdown,https://github.com/knsv/mermaid,Web libraries and frameworks,Slow
+twbs/bootstrap-sass,11734,2931,Ruby,Official Sass port of Bootstrap 2 and 3.,https://github.com/twbs/bootstrap-sass,Web libraries and frameworks,Slow
+enyo/dropzone,11732,2848,JavaScript,Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.,https://github.com/enyo/dropzone,Web libraries and frameworks,Slow
+facebook/fresco,11723,3185,Java,An Android library for managing images and the memory they use.,https://github.com/facebook/fresco,Non-web libraries and frameworks,Moderate
+postcss/autoprefixer,11715,657,CoffeeScript,Parse CSS and add vendor prefixes to rules by Can I Use,https://github.com/postcss/autoprefixer,Web libraries and frameworks,Moderate
+mxstbr/react-boilerplate,11669,1489,JavaScript,":fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.",https://github.com/mxstbr/react-boilerplate,Web libraries and frameworks,Viral
+chjj/marked,11585,1648,HTML,A markdown parser and compiler. Built for speed.,https://github.com/chjj/marked,Web libraries and frameworks,Moderate
+domnikl/DesignPatternsPHP,11531,2457,PHP,sample code for several design patterns in PHP,https://github.com/domnikl/DesignPatternsPHP,Documentation,Moderate
+Thibaut/devdocs,11515,757,Ruby,API Documentation Browser,https://github.com/Thibaut/devdocs,Documentation,Moderate
+npm/npm,11500,2330,JavaScript,a package manager for javascript,https://github.com/npm/npm,Software tools,Moderate
+apache/spark,11485,10760,Scala,Mirror of Apache Spark,https://github.com/apache/spark,Software tools,Moderate
+fchollet/keras,11474,3802,Python,"Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano or TensorFlow.",https://github.com/fchollet/keras,Non-web libraries and frameworks,Fast
+getsentry/sentry,11457,1368,Python,Sentry is cross-platform crash reporting built with love,https://github.com/getsentry/sentry,Software tools,Moderate
+ruby/ruby,11412,3209,Ruby,The Ruby Programming Language,https://github.com/ruby/ruby,System software,Moderate
+kripken/emscripten,11384,1389,C,Emscripten: An LLVM-to-JavaScript Compiler,https://github.com/kripken/emscripten,Software tools,Slow
+mochajs/mocha,11381,1678,JavaScript,"simple, flexible, fun javascript test framework for node.js & the browser",https://github.com/mochajs/mocha,Software tools,Moderate
+jlmakes/scrollreveal,11380,1447,JavaScript,Easy scroll animations for web and mobile browsers.,https://github.com/jlmakes/scrollreveal,Web libraries and frameworks,Moderate
+wycats/handlebars.js,11372,1519,JavaScript,,https://github.com/wycats/handlebars.js,Web libraries and frameworks,Slow
+riot/riot,11366,906,JavaScript,Simple and elegant component-based UI library,https://github.com/riot/riot,Web libraries and frameworks,Moderate
+ipader/SwiftGuide,11347,3069,Swift,这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排。http://dev.swiftguide.cn,https://github.com/ipader/SwiftGuide,Documentation,Fast
+desandro/masonry,11294,1933,JavaScript,:love_hotel: Cascading grid layout library,https://github.com/desandro/masonry,Web libraries and frameworks,Slow
+Automattic/mongoose,11282,1766,JavaScript,MongoDB object modeling designed to work in an asynchronous environment.,https://github.com/Automattic/mongoose,Non-web libraries and frameworks,Moderate
+gruntjs/grunt,11276,1454,JavaScript,Grunt: The JavaScript Task Runner,https://github.com/gruntjs/grunt,Software tools,Slow
+HubSpot/pace,11219,1357,CSS,Automatically add a progress bar to your site. #hubspot-open-source,https://github.com/HubSpot/pace,Web libraries and frameworks,Moderate
+php/php-src,11203,3784,C,The PHP Interpreter,https://github.com/php/php-src,System software,Moderate
+CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers,11181,3221,Jupyter Notebook,"aka ""Bayesian Methods for Hackers"": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)  ",https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers,Documentation,Slow
+dotnet/corefx,11164,2878,C#,"This repo contains the .NET Core foundational libraries, called CoreFX. It includes classes for collections, file systems, console, XML, async and many others.",https://github.com/dotnet/corefx,System software,Moderate
+textmate/textmate,11153,1730,Objective-C++,TextMate is a graphical text editor for OS X 10.8+,https://github.com/textmate/textmate,Application software,Slow
+ggreer/the_silver_searcher,11149,793,C,"A code-searching tool similar to ack, but faster.",https://github.com/ggreer/the_silver_searcher,Software tools,Moderate
+bitcoin/bitcoin,11140,7280,C++,Bitcoin Core integration/staging tree,https://github.com/bitcoin/bitcoin,Application software,Moderate
+ccgus/fmdb,11091,2581,Objective-C,A Cocoa / Objective-C wrapper around SQLite,https://github.com/ccgus/fmdb,System software,Moderate
+diaspora/diaspora,11038,2809,Ruby,"A privacy-aware, distributed, open source social network.",https://github.com/diaspora/diaspora,Application software,Slow
+naptha/tesseract.js,11027,520,JavaScript,Pure Javascript OCR for 62 Languages ???,https://github.com/naptha/tesseract.js,Web libraries and frameworks,
+ipython/ipython,11027,3271,Python,"Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.",https://github.com/ipython/ipython,Non-web libraries and frameworks,Moderate
+matteocrippa/awesome-swift,10975,1551,Swift,A collaborative list of awesome swift resources. Feel free to contribute!,https://github.com/matteocrippa/awesome-swift,Documentation,Fast
+node-inspector/node-inspector,10941,701,JavaScript,Node.js debugger based on Blink Developer Tools,https://github.com/node-inspector/node-inspector,Software tools,Moderate
+cheeriojs/cheerio,10937,840,JavaScript,"Fast, flexible, and lean implementation of core jQuery designed specifically for the server.",https://github.com/cheeriojs/cheerio,Non-web libraries and frameworks,Moderate
+wagerfield/parallax,10913,1723,JavaScript,Parallax Engine that reacts to the orientation of a smart device,https://github.com/wagerfield/parallax,Web libraries and frameworks,Slow
+tensorflow/models,10862,2996,Python,Models built with TensorFlow,https://github.com/tensorflow/models,Documentation,
+etsy/statsd,10856,1489,JavaScript,Daemon for easy but powerful stats aggregation,https://github.com/etsy/statsd,Software tools,Slow
+h5bp/Effeckt.css,10855,1520,CSS,A Performant Transitions and Animations Library,https://github.com/h5bp/Effeckt.css,Web libraries and frameworks,Slow
+codemirror/CodeMirror,10835,2694,JavaScript,In-browser code editor,https://github.com/codemirror/CodeMirror,Web libraries and frameworks,Moderate
+tonsky/FiraCode,10775,309,Clojure,Monospaced font with programming ligatures,https://github.com/tonsky/FiraCode,Software tools,Fast
+Bilibili/ijkplayer,10754,3424,C,"Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.",https://github.com/Bilibili/ijkplayer,Non-web libraries and frameworks,Fast
+airbnb/superset,10739,1344,Python,"Superset is a data exploration platform designed to be visual, intuitive, and interactive",https://github.com/airbnb/superset,Software tools,Viral
+mongodb/mongo,10732,2926,C++,The MongoDB Database,https://github.com/mongodb/mongo,System software,Moderate
+legomushroom/mojs,10731,465,JavaScript,motion graphics toolbelt for the web,https://github.com/legomushroom/mojs,Web libraries and frameworks,Fast
+ReactiveX/RxAndroid,10712,1920,Java,RxJava bindings for Android,https://github.com/ReactiveX/RxAndroid,Non-web libraries and frameworks,Fast
+nolimits4web/Swiper,10700,3923,JavaScript,Most modern mobile touch slider with hardware accelerated transitions,https://github.com/nolimits4web/Swiper,Web libraries and frameworks,Moderate
+substack/node-browserify,10668,952,JavaScript,browser-side require() the node.js way,https://github.com/substack/node-browserify,Software tools,Slow
+wg/wrk,10658,824,C,Modern HTTP benchmarking tool,https://github.com/wg/wrk,Software tools,Moderate
+scottjehl/Respond,10648,3583,JavaScript,"A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)",https://github.com/scottjehl/Respond,Web libraries and frameworks,Slow
+Shopify/dashing,10600,1166,JavaScript,The exceptionally handsome dashboard framework in Ruby and Coffeescript.,https://github.com/Shopify/dashing,Web libraries and frameworks,Slow
+altercation/solarized,10599,2851,VimL,"precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes",https://github.com/altercation/solarized,Application software,Slow
+juliangarnier/anime,10597,580,JavaScript,Javascript Animation Engine,https://github.com/juliangarnier/anime,Web libraries and frameworks,
+raywenderlich/swift-algorithm-club,10582,1369,Swift,"Algorithms and data structures in Swift, with explanations!",https://github.com/raywenderlich/swift-algorithm-club,Documentation,
+libgdx/libgdx,10581,5031,Java,Desktop/Android/HTML5/iOS Java game development framework,https://github.com/libgdx/libgdx,Non-web libraries and frameworks,Moderate
+kennethreitz/python-guide,10572,3478,Batchfile,"Python best practices guidebook, written for Humans. ",https://github.com/kennethreitz/python-guide,Documentation,Moderate
+syl20bnr/spacemacs,10518,2733,Emacs Lisp,"A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!",https://github.com/syl20bnr/spacemacs,Software tools,Fast
+facebook/AsyncDisplayKit,10494,1860,Objective-C,Smooth asynchronous user interfaces for iOS apps.,https://github.com/facebook/AsyncDisplayKit,Non-web libraries and frameworks,Moderate
+driftyco/ionicons,10456,1133,HTML,The premium icon font for Ionic,https://github.com/driftyco/ionicons,Web libraries and frameworks,Moderate
+RocketChat/Rocket.Chat,10452,2246,JavaScript,"Have your own Slack like online chat, built with Meteor.",https://github.com/RocketChat/Rocket.Chat,Application software,Fast
+caskroom/homebrew-cask,10357,4532,Ruby,A CLI workflow for the administration of Mac applications distributed as binaries,https://github.com/caskroom/homebrew-cask,Software tools,Moderate
+MostlyAdequate/mostly-adequate-guide,10346,780,JavaScript,Mostly adequate guide to FP (in javascript),https://github.com/MostlyAdequate/mostly-adequate-guide,Documentation,Moderate
+PerfectlySoft/Perfect,10327,715,Swift,"Server-side Swift. The Perfect library, application server, connectors and example apps. (For mobile back-end development, website and web app development, and more...)",https://github.com/PerfectlySoft/Perfect,Web libraries and frameworks,
+drduh/macOS-Security-and-Privacy-Guide,10297,602,Python,A practical guide to securing macOS.,https://github.com/drduh/macOS-Security-and-Privacy-Guide,Documentation,Moderate
+janl/mustache.js,10297,1976,JavaScript,Minimal templating with {{mustaches}} in JavaScript,https://github.com/janl/mustache.js,Web libraries and frameworks,Slow
+chriskempson/tomorrow-theme,10280,2317,CSS,Tomorrow Theme the precursor to Base16 Theme,https://github.com/chriskempson/tomorrow-theme,Software tools,Slow
+Mantle/Mantle,10276,1429,Objective-C,Model framework for Cocoa and Cocoa Touch,https://github.com/Mantle/Mantle,Non-web libraries and frameworks,Moderate
+loverajoel/jstips,10244,640,CSS,This is about useful JS tips!,https://github.com/loverajoel/jstips,Documentation,
+faif/python-patterns,10229,2460,Python,A collection of design patterns/idioms in Python,https://github.com/faif/python-patterns,Documentation,Moderate
